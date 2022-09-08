@@ -1,6 +1,6 @@
 @font-face {
   font-family: warsaw gothic;
-  src: url(/dist/warsaw-gothic-font/WarsawGothic-BnBV.otf);
+  src: url(../warsaw-gothic-font/WarsawGothic-BnBV.otf);
 }
 * {
   box-sizing: border-box;
